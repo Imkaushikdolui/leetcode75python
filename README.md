@@ -1,0 +1,2 @@
+# leetcode75python
+LEETCODE75 QUESTION IN PYTHON.
